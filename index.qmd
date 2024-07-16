@@ -1,0 +1,17 @@
+---
+title: "Brooke Benton"
+about:  
+  template: jolla
+  image: Assets/IMG_0713.pdf
+  links: 
+    - icon: envelope 
+      text: Email
+      href: mailto:brookebenton819@gmail.com
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn 
+      href: https://www.linkedin.com/in/brooke-benton-7143b624a/
+      target: _blank
+     
+---
+Third year Statistics and Data Science student who is passionate about empowering the next generation through education and on a journey to build her knowledge and skill in coding and mathematics

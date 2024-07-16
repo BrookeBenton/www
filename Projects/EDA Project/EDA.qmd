@@ -1,0 +1,5 @@
+---
+title: "EDA Project"
+description: "EDA project from CMU 2024 SURE program"
+date: July 19 2024
+---

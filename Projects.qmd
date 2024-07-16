@@ -1,0 +1,7 @@
+---
+title: "Projects"
+listing: 
+  contents: Projects
+---
+
+Below you can find projects that showcase my work...
